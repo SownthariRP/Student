@@ -8,6 +8,7 @@ public class Placedetail
 	    String rollno="20CSR205";
 	    int arrears=0;
 	    int ds_h=0;
+            String abroad="Yes";		
 	    String mobileno="9876543210";
 		System.out.println("Name:"+name);
 		System.out.println("Roll number:"+rollno);
@@ -16,6 +17,7 @@ public class Placedetail
 		System.out.println("Personal Email:"+permail);
 		System.out.println("No of arrears:"+arrears);
 		System.out.println("Dayscholar/Hosteller"+ds_h);
+		System.out.println("Are you interested get placed in abroad?",+abroad);
 
 	}
 }
