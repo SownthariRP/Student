@@ -6,8 +6,8 @@ public class coursedetail
 	    int semester=3;
 	    int no1cer=2;
 	    String one="aaa",two="bbb";
-	    int noval=0;
-	    String val1="nil";
+	    int noval=1;
+	    String val1="ccc";
 	    System.out.println("Roll number:"+rollno);
 	    System.out.println("Semester"+semester);
 	    System.out.println("Number of 1 credit courses completed:"+no1cer);
